@@ -1,6 +1,6 @@
 # Workshop_warm_up 練習題
 
-配合明天要進行的 Workshop 先進行練習，完成後可以到 `answer` branch 對答案
+配合明天要進行的 Workshop 練習，完成後可以到 `answer` branch 對答案
 
 ### Pratice 1
 按下 `Add` 後要能夠增加圓圈圈
